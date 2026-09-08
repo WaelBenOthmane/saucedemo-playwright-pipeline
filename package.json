@@ -1,0 +1,25 @@
+{
+  "name": "saucedemo-qa-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaelBenOthmane/saucedemo-qa-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaelBenOthmane/saucedemo-qa-pipeline/issues"
+  },
+  "homepage": "https://github.com/WaelBenOthmane/saucedemo-qa-pipeline#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1",
+    "vitest": "^5.0.0"
+  }
+}
